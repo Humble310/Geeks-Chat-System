@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="usersRecyclerView" type="id" />
+    <item name="textErrorMessage" type="id" />
+    <item name="fabNewChat" type="id" />
+</resources>
